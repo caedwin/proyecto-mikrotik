@@ -1,0 +1,14 @@
+main{
+    margin-top: 10rem;
+    text-align: center;
+}
+label{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-right: 0.8rem;
+}
+.alerta{
+    margin-top: 3rem;
+}
+
+

@@ -1,0 +1,63 @@
+.encabezado_header{
+    background-color: #102540;
+    margin: 0;
+    width: auto;
+    height: 5rem;
+
+}
+.encabezado{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items:baseline;
+    margin-right: 6rem;
+}
+h1{
+    font-size: 5rem;
+    font-weight: bold;
+    color: white; 
+    margin-left: 2rem;
+}
+.items-menuPrincipal{
+    color: white;
+}
+
+h2{
+    font-size: 3rem;
+    margin-top: 3rem;
+    font-weight: 800;
+    color: #102540;
+}
+
+.video1{
+    margin-top: 3rem;
+}
+
+.container{
+    margin: 0 6rem 0 6rem;
+}
+.video1{
+    height: 315px;
+    width: 560px;
+}
+
+footer{
+    background-color: #102540;
+    height: 3rem;
+    margin-top: 3rem;
+}
+body{
+    height: 400px;
+}
+.boton{
+    width: 10rem;
+    height: 3rem;
+    margin-top: 10rem;
+    margin-bottom: 4rem;
+    border: 0;
+    background-color: blue;
+    border-radius: 2rem;
+    color: white;
+    font-weight: 600;
+    font-size: 0.9rem;
+}
